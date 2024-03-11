@@ -1,0 +1,5425 @@
+{
+  "nodes": [
+    {
+      "id": "Goldman Sachs",
+      "label": "Goldman Sachs",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Supermicro",
+      "label": "Supermicro",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bill & Melinda Gates Foundation",
+      "label": "Bill & Melinda Gates Foundation",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Doug McMillon",
+      "label": "Doug McMillon",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bumble",
+      "label": "Bumble",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2000",
+      "label": "2000",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Form 10-Q",
+      "label": "Form 10-Q",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "0",
+      "label": "0",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2009",
+      "label": "2009",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Net income",
+      "label": "Net income",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Big Tech",
+      "label": "Big Tech",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Government",
+      "label": "Government",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "9",
+      "label": "9",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bitcoin",
+      "label": "Bitcoin",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Stock market index",
+      "label": "Stock market index",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "The Wall Street Journal",
+      "label": "The Wall Street Journal",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "SpaceX",
+      "label": "SpaceX",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Mar-a-Lago",
+      "label": "Mar-a-Lago",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Qatar",
+      "label": "Qatar",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Donald Trump",
+      "label": "Donald Trump",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Germanium",
+      "label": "Germanium",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Stock market",
+      "label": "Stock market",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Management accounting",
+      "label": "Management accounting",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gold mining",
+      "label": "Gold mining",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Stock",
+      "label": "Stock",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Russia",
+      "label": "Russia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Generative artificial intelligence",
+      "label": "Generative artificial intelligence",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chairperson",
+      "label": "Chairperson",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Search engine",
+      "label": "Search engine",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Medical Properties Trust",
+      "label": "Medical Properties Trust",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Natural gas",
+      "label": "Natural gas",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2018",
+      "label": "2018",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Metal",
+      "label": "Metal",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Animal feed",
+      "label": "Animal feed",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "COVID-19 pandemic",
+      "label": "COVID-19 pandemic",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "National Labor Relations Board",
+      "label": "National Labor Relations Board",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jordan Peterson",
+      "label": "Jordan Peterson",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Father",
+      "label": "Father",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Riyadh",
+      "label": "Riyadh",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Software as a service",
+      "label": "Software as a service",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Venture capital",
+      "label": "Venture capital",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Husband",
+      "label": "Husband",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Earnings before interest, taxes, depreciation and amortization",
+      "label": "Earnings before interest, taxes, depreciation and amortization",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Oracle",
+      "label": "Oracle",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Australia",
+      "label": "Australia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "The Zone of Interest",
+      "label": "The Zone of Interest",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Social media",
+      "label": "Social media",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Anthropic",
+      "label": "Anthropic",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Lauren McFerran",
+      "label": "Lauren McFerran",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "License",
+      "label": "License",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Wall Street",
+      "label": "Wall Street",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Original equipment manufacturer",
+      "label": "Original equipment manufacturer",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Liquefied natural gas",
+      "label": "Liquefied natural gas",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "United States presidential election",
+      "label": "United States presidential election",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1973",
+      "label": "1973",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Warner Bros.",
+      "label": "Warner Bros.",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Christopher Nolan",
+      "label": "Christopher Nolan",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Medi-Cal",
+      "label": "Medi-Cal",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Pacific Heights, San Francisco",
+      "label": "Pacific Heights, San Francisco",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "October",
+      "label": "October",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Activision Blizzard",
+      "label": "Activision Blizzard",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Reuters",
+      "label": "Reuters",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Andrea Pirlo",
+      "label": "Andrea Pirlo",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Accounting",
+      "label": "Accounting",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "ChatGPT",
+      "label": "ChatGPT",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Exercise",
+      "label": "Exercise",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "European Union",
+      "label": "European Union",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Institute for Supply Management",
+      "label": "Institute for Supply Management",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Frankfurt",
+      "label": "Frankfurt",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Central processing unit",
+      "label": "Central processing unit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Liquidity",
+      "label": "Liquidity",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Working capital",
+      "label": "Working capital",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cloud",
+      "label": "Cloud",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "OpenAI",
+      "label": "OpenAI",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "International Franchise Association",
+      "label": "International Franchise Association",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Carbon-based fuel",
+      "label": "Carbon-based fuel",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Savings account",
+      "label": "Savings account",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Employment",
+      "label": "Employment",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "American Hotel and Lodging Association",
+      "label": "American Hotel and Lodging Association",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Nvidia",
+      "label": "Nvidia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Board game",
+      "label": "Board game",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cost basis",
+      "label": "Cost basis",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Rui Costa",
+      "label": "Rui Costa",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Seeking Alpha",
+      "label": "Seeking Alpha",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Nasdaq",
+      "label": "Nasdaq",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "E-commerce",
+      "label": "E-commerce",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Digital Cooperation Organization",
+      "label": "Digital Cooperation Organization",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Etsy",
+      "label": "Etsy",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Home Alone",
+      "label": "Home Alone",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Carbon",
+      "label": "Carbon",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Institute for Government",
+      "label": "Institute for Government",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Marketing",
+      "label": "Marketing",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Producers Guild of America",
+      "label": "Producers Guild of America",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Certificate of deposit",
+      "label": "Certificate of deposit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2023",
+      "label": "2023",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Revenue",
+      "label": "Revenue",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "VIX",
+      "label": "VIX",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Investor",
+      "label": "Investor",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Treadmill",
+      "label": "Treadmill",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Business",
+      "label": "Business",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Pont-de-l'Is\u00e8re",
+      "label": "Pont-de-l'Is\u00e8re",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "National Enterprise Board",
+      "label": "National Enterprise Board",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Sales",
+      "label": "Sales",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Technology",
+      "label": "Technology",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Taiwan",
+      "label": "Taiwan",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Rachel Reeves",
+      "label": "Rachel Reeves",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Prime minister",
+      "label": "Prime minister",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1948",
+      "label": "1948",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Meme stock",
+      "label": "Meme stock",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cyberattack",
+      "label": "Cyberattack",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Regasification",
+      "label": "Regasification",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Papua New Guinea",
+      "label": "Papua New Guinea",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Botswana",
+      "label": "Botswana",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Investment",
+      "label": "Investment",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Poor Things",
+      "label": "Poor Things",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1933",
+      "label": "1933",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "East Room",
+      "label": "East Room",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Energy development",
+      "label": "Energy development",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Qualcomm",
+      "label": "Qualcomm",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Davos",
+      "label": "Davos",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Blockchain",
+      "label": "Blockchain",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "San Francisco",
+      "label": "San Francisco",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Happiness",
+      "label": "Happiness",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Recession",
+      "label": "Recession",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Facebook",
+      "label": "Facebook",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Career",
+      "label": "Career",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Mobile phone",
+      "label": "Mobile phone",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gordon Brown",
+      "label": "Gordon Brown",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Apple",
+      "label": "Apple",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cryptocurrency",
+      "label": "Cryptocurrency",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Best Director",
+      "label": "Best Director",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Aswath Damodaran",
+      "label": "Aswath Damodaran",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jet.com",
+      "label": "Jet.com",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Federal Reserve",
+      "label": "Federal Reserve",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "History",
+      "label": "History",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Marc Lore",
+      "label": "Marc Lore",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bill Gates",
+      "label": "Bill Gates",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "France",
+      "label": "France",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Paul Allen",
+      "label": "Paul Allen",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bank",
+      "label": "Bank",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Software industry",
+      "label": "Software industry",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Taiwan Semiconductor Research Institute",
+      "label": "Taiwan Semiconductor Research Institute",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Copper",
+      "label": "Copper",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Real estate investment trust",
+      "label": "Real estate investment trust",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Stocks",
+      "label": "Stocks",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gold",
+      "label": "Gold",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "United States",
+      "label": "United States",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jessica Livingston",
+      "label": "Jessica Livingston",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "BASF",
+      "label": "BASF",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gartner",
+      "label": "Gartner",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Singapore",
+      "label": "Singapore",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Killing of Laken Riley",
+      "label": "Killing of Laken Riley",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Threat (computer)",
+      "label": "Threat (computer)",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "List of films considered the best",
+      "label": "List of films considered the best",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Aerosmith (album)",
+      "label": "Aerosmith (album)",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Y Combinator",
+      "label": "Y Combinator",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Oil",
+      "label": "Oil",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Frank Slootman",
+      "label": "Frank Slootman",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Spouse",
+      "label": "Spouse",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gear",
+      "label": "Gear",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1994 FIFA World Cup",
+      "label": "1994 FIFA World Cup",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Life",
+      "label": "Life",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Google",
+      "label": "Google",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Assets under management",
+      "label": "Assets under management",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Earnings before interest and taxes",
+      "label": "Earnings before interest and taxes",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Retirement",
+      "label": "Retirement",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "S&P 500",
+      "label": "S&P 500",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Biceps",
+      "label": "Biceps",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Think tank",
+      "label": "Think tank",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Google Search",
+      "label": "Google Search",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Morgan Stanley",
+      "label": "Morgan Stanley",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Machine learning",
+      "label": "Machine learning",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cloud computing",
+      "label": "Cloud computing",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Asia",
+      "label": "Asia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Israel\u2013Hamas war",
+      "label": "Israel\u2013Hamas war",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Newmont",
+      "label": "Newmont",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Larry Ellison",
+      "label": "Larry Ellison",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Microsoft",
+      "label": "Microsoft",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2016",
+      "label": "2016",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Master limited partnership",
+      "label": "Master limited partnership",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Trade magazine",
+      "label": "Trade magazine",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Corporate group",
+      "label": "Corporate group",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "CNBC",
+      "label": "CNBC",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "SoftBank Group",
+      "label": "SoftBank Group",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Vermont",
+      "label": "Vermont",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Train",
+      "label": "Train",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Gallium",
+      "label": "Gallium",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Hsinchu",
+      "label": "Hsinchu",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Ruth Asawa",
+      "label": "Ruth Asawa",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jerome Powell",
+      "label": "Jerome Powell",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Commodity",
+      "label": "Commodity",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chatbot",
+      "label": "Chatbot",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Growth stock",
+      "label": "Growth stock",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Renaissance Capital",
+      "label": "Renaissance Capital",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Sergey Brin",
+      "label": "Sergey Brin",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Alan Walters",
+      "label": "Alan Walters",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Meta Platforms",
+      "label": "Meta Platforms",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Atlantic Ocean",
+      "label": "Atlantic Ocean",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chief financial officer",
+      "label": "Chief financial officer",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Presidency of Joe Biden",
+      "label": "Presidency of Joe Biden",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Trading room",
+      "label": "Trading room",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Write-off",
+      "label": "Write-off",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2020",
+      "label": "2020",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Universal Pictures",
+      "label": "Universal Pictures",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Dumb Money",
+      "label": "Dumb Money",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2017",
+      "label": "2017",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Member state",
+      "label": "Member state",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Credit",
+      "label": "Credit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Masayoshi Son",
+      "label": "Masayoshi Son",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "SentinelOne",
+      "label": "SentinelOne",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Arm",
+      "label": "Arm",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Steve Huffman",
+      "label": "Steve Huffman",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Ukraine",
+      "label": "Ukraine",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Waymo",
+      "label": "Waymo",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chemical substance",
+      "label": "Chemical substance",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Trust (law)",
+      "label": "Trust (law)",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Midfielder",
+      "label": "Midfielder",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Google Cloud",
+      "label": "Google Cloud",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Coal",
+      "label": "Coal",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Lidiane Jones",
+      "label": "Lidiane Jones",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Doha",
+      "label": "Doha",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "John Kemp",
+      "label": "John Kemp",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Marketplace",
+      "label": "Marketplace",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Implied volatility",
+      "label": "Implied volatility",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Expense",
+      "label": "Expense",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Snowflake",
+      "label": "Snowflake",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2008",
+      "label": "2008",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Software",
+      "label": "Software",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Salesforce Tower",
+      "label": "Salesforce Tower",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1931",
+      "label": "1931",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "White House",
+      "label": "White House",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Seattle",
+      "label": "Seattle",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Barbie",
+      "label": "Barbie",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Reddit",
+      "label": "Reddit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Park",
+      "label": "Park",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "September 1929",
+      "label": "September 1929",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Social",
+      "label": "Social",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Artificial Intelligence Act",
+      "label": "Artificial Intelligence Act",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Metaverse",
+      "label": "Metaverse",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Everything Everywhere All at Once",
+      "label": "Everything Everywhere All at Once",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jensen Huang",
+      "label": "Jensen Huang",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Beyond Order",
+      "label": "Beyond Order",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Model",
+      "label": "Model",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Semiconductor fabrication plant",
+      "label": "Semiconductor fabrication plant",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Randi Zuckerberg",
+      "label": "Randi Zuckerberg",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Startup company",
+      "label": "Startup company",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Ellen Pao",
+      "label": "Ellen Pao",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2002",
+      "label": "2002",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Market trend",
+      "label": "Market trend",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Eunice C. Lee",
+      "label": "Eunice C. Lee",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Comcast",
+      "label": "Comcast",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Muscle",
+      "label": "Muscle",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Germany",
+      "label": "Germany",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Mind",
+      "label": "Mind",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "New York University",
+      "label": "New York University",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Equinor",
+      "label": "Equinor",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Searchlight Pictures",
+      "label": "Searchlight Pictures",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Action film",
+      "label": "Action film",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Formic acid",
+      "label": "Formic acid",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2007\u20132008 financial crisis",
+      "label": "2007\u20132008 financial crisis",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "YouTube",
+      "label": "YouTube",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "The Motley Fool",
+      "label": "The Motley Fool",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Tag cloud",
+      "label": "Tag cloud",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "National Retail Federation",
+      "label": "National Retail Federation",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "TikTok",
+      "label": "TikTok",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Shadow Chancellor of the Exchequer",
+      "label": "Shadow Chancellor of the Exchequer",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Alphabet Inc.",
+      "label": "Alphabet Inc.",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Computer security",
+      "label": "Computer security",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Marc Benioff",
+      "label": "Marc Benioff",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Energy",
+      "label": "Energy",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Amazon Web Services",
+      "label": "Amazon Web Services",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1870",
+      "label": "1870",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Newcrest Mining",
+      "label": "Newcrest Mining",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Canadian National Railway",
+      "label": "Canadian National Railway",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Private credit",
+      "label": "Private credit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Football",
+      "label": "Football",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Enterprise Products",
+      "label": "Enterprise Products",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Debits and credits",
+      "label": "Debits and credits",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "World cup",
+      "label": "World cup",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "List of wars involving Ukraine",
+      "label": "List of wars involving Ukraine",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Automotive industry",
+      "label": "Automotive industry",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Pastry",
+      "label": "Pastry",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "TipRanks",
+      "label": "TipRanks",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "COVID-19",
+      "label": "COVID-19",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "J. Robert Oppenheimer",
+      "label": "J. Robert Oppenheimer",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Alphabet",
+      "label": "Alphabet",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Middlebury College",
+      "label": "Middlebury College",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Nissan",
+      "label": "Nissan",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Disability insurance",
+      "label": "Disability insurance",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Profit margin",
+      "label": "Profit margin",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "International Association for Cryptologic Research",
+      "label": "International Association for Cryptologic Research",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Central bank",
+      "label": "Central bank",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Viva Engage",
+      "label": "Viva Engage",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Mark Zuckerberg",
+      "label": "Mark Zuckerberg",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Josef Albers",
+      "label": "Josef Albers",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Walmart",
+      "label": "Walmart",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jogging",
+      "label": "Jogging",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chancellor",
+      "label": "Chancellor",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Datadog",
+      "label": "Datadog",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Elon Musk",
+      "label": "Elon Musk",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "R/wallstreetbets",
+      "label": "R/wallstreetbets",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cooking",
+      "label": "Cooking",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Private equity",
+      "label": "Private equity",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Brazil",
+      "label": "Brazil",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "North America",
+      "label": "North America",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "AI boom",
+      "label": "AI boom",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Arm Holdings",
+      "label": "Arm Holdings",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "WeWork",
+      "label": "WeWork",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Salesforce",
+      "label": "Salesforce",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Share price",
+      "label": "Share price",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "CNN",
+      "label": "CNN",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Politics",
+      "label": "Politics",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Augmented reality",
+      "label": "Augmented reality",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Cloud computing security",
+      "label": "Cloud computing security",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Victoria Nuland",
+      "label": "Victoria Nuland",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Nigel Lawson",
+      "label": "Nigel Lawson",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Workplace",
+      "label": "Workplace",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "New York Stock Exchange",
+      "label": "New York Stock Exchange",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Fiat money",
+      "label": "Fiat money",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "1994",
+      "label": "1994",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "ISM Report On Business",
+      "label": "ISM Report On Business",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Subscription business model",
+      "label": "Subscription business model",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "TSMC",
+      "label": "TSMC",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Japan",
+      "label": "Japan",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Antirrhinum",
+      "label": "Antirrhinum",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Palantir Technologies",
+      "label": "Palantir Technologies",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Brett Queener",
+      "label": "Brett Queener",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2",
+      "label": "2",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Canada",
+      "label": "Canada",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Morabaraba",
+      "label": "Morabaraba",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Louisiana",
+      "label": "Louisiana",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Operating cash flow",
+      "label": "Operating cash flow",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Sam Altman",
+      "label": "Sam Altman",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Bernstein",
+      "label": "Bernstein",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Derivative",
+      "label": "Derivative",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Chief executive officer",
+      "label": "Chief executive officer",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Parenting",
+      "label": "Parenting",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2005",
+      "label": "2005",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Graphics processing unit",
+      "label": "Graphics processing unit",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Refining",
+      "label": "Refining",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Europe",
+      "label": "Europe",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Enbridge",
+      "label": "Enbridge",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "North Atlantic oscillation",
+      "label": "North Atlantic oscillation",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Large language model",
+      "label": "Large language model",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Jeremy Hunt",
+      "label": "Jeremy Hunt",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Artificial intelligence",
+      "label": "Artificial intelligence",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Office",
+      "label": "Office",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Nwankwo Kanu",
+      "label": "Nwankwo Kanu",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2028",
+      "label": "2028",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Midstream",
+      "label": "Midstream",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Royalty payment",
+      "label": "Royalty payment",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Small caps",
+      "label": "Small caps",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Great Recession",
+      "label": "Great Recession",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Sadness",
+      "label": "Sadness",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2030s",
+      "label": "2030s",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Management",
+      "label": "Management",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Kitchen",
+      "label": "Kitchen",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Rome, Georgia",
+      "label": "Rome, Georgia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Microsoft Windows",
+      "label": "Microsoft Windows",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "World Economic Forum",
+      "label": "World Economic Forum",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Caterpillar",
+      "label": "Caterpillar",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Finance",
+      "label": "Finance",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Benioff",
+      "label": "Benioff",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Kleiner Perkins",
+      "label": "Kleiner Perkins",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "JPMorgan Chase",
+      "label": "JPMorgan Chase",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Steve Jobs",
+      "label": "Steve Jobs",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "University of Georgia",
+      "label": "University of Georgia",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Fair value",
+      "label": "Fair value",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Great Depression",
+      "label": "Great Depression",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Arsenal",
+      "label": "Arsenal",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "S&P Global Ratings",
+      "label": "S&P Global Ratings",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Sridhar Ramaswamy",
+      "label": "Sridhar Ramaswamy",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "A24",
+      "label": "A24",
+      "color": "#00FF00",
+      "shape": "circle"
+    },
+    {
+      "id": "Internet",
+      "label": "Internet",
+      "color": "#00FF00",
+      "shape": "circle"
+    }
+  ],
+  "links": [
+    {
+      "source": "WeWork",
+      "target": "2016",
+      "label": "end time",
+      "title": "end time",
+      "arrows": "to"
+    },
+    {
+      "source": "The Motley Fool",
+      "target": "Gartner",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Jogging",
+      "target": "Exercise",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Taiwan",
+      "target": "Hsinchu",
+      "label": "contains administrative territorial entity",
+      "title": "contains administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Formic acid",
+      "target": "Animal feed",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Meta Platforms",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "John Kemp",
+      "target": "Reuters",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Salesforce",
+      "target": "Marc Benioff",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Gallium",
+      "target": "Metal",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Operating cash flow",
+      "target": "Expense",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Rui Costa",
+      "target": "9",
+      "label": "ranking",
+      "title": "ranking",
+      "arrows": "to"
+    },
+    {
+      "source": "Sam Altman",
+      "target": "OpenAI",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Aswath Damodaran",
+      "target": "New York University",
+      "label": "educated at",
+      "title": "educated at",
+      "arrows": "to"
+    },
+    {
+      "source": "North Atlantic oscillation",
+      "target": "Atlantic Ocean",
+      "label": "location",
+      "title": "location",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Central processing unit",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Natural gas",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Supermicro",
+      "target": "Nvidia",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Salesforce",
+      "target": "Generative artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Randi Zuckerberg",
+      "target": "Mark Zuckerberg",
+      "label": "sibling",
+      "title": "sibling",
+      "arrows": "to"
+    },
+    {
+      "source": "Morabaraba",
+      "target": "Botswana",
+      "label": "country of origin",
+      "title": "country of origin",
+      "arrows": "to"
+    },
+    {
+      "source": "Amazon Web Services",
+      "target": "Cloud computing",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Dumb Money",
+      "target": "2023",
+      "label": "publication date",
+      "title": "publication date",
+      "arrows": "to"
+    },
+    {
+      "source": "Morabaraba",
+      "target": "Botswana",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Member state",
+      "target": "European Union",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Snowflake",
+      "target": "Artificial intelligence",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Alan Walters",
+      "target": "National Enterprise Board",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Model",
+      "target": "Artificial intelligence",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Original equipment manufacturer",
+      "target": "Automotive industry",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Universal Pictures",
+      "target": "Comcast",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Brett Queener",
+      "target": "Salesforce",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "2002",
+      "label": "inception",
+      "title": "inception",
+      "arrows": "to"
+    },
+    {
+      "source": "2022",
+      "target": "2022",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "JPMorgan Chase",
+      "target": "New York Stock Exchange",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "Enterprise Products",
+      "target": "Midstream",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Bitcoin",
+      "target": "Blockchain",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Formic acid",
+      "target": "Chemical substance",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Profit margin",
+      "target": "Net income",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Large language model",
+      "target": "Generative artificial intelligence",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "ISM Report On Business",
+      "target": "0",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "United States",
+      "target": "Louisiana",
+      "label": "contains administrative territorial entity",
+      "title": "contains administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Cryptocurrency",
+      "target": "Blockchain",
+      "label": "based on",
+      "title": "based on",
+      "arrows": "to"
+    },
+    {
+      "source": "Oracle",
+      "target": "Larry Ellison",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Universal Pictures",
+      "target": "Comcast",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Bill Gates",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Cloud computing security",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Fair value",
+      "target": "Cost basis",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Graphics processing unit",
+      "target": "Semiconductor fabrication plant",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "2024",
+      "target": "2024",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "BASF",
+      "target": "Germany",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Newmont",
+      "target": "Gold",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Supermicro",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Steve Jobs",
+      "target": "Apple",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Louisiana",
+      "target": "United States",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Credit",
+      "target": "Finance",
+      "label": "studied by",
+      "title": "studied by",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Search engine",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Meta Platforms",
+      "target": "Randi Zuckerberg",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Reddit",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Salesforce Tower",
+      "target": "San Francisco",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Software as a service",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Anthropic",
+      "target": "San Francisco",
+      "label": "headquarters location",
+      "title": "headquarters location",
+      "arrows": "to"
+    },
+    {
+      "source": "Newcrest Mining",
+      "target": "Gold mining",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Walmart",
+      "target": "Doug McMillon",
+      "label": "chairperson",
+      "title": "chairperson",
+      "arrows": "to"
+    },
+    {
+      "source": "Equinor",
+      "target": "Equinor",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet",
+      "target": "Google Cloud",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "History",
+      "target": "Stock market",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Gordon Brown",
+      "target": "Prime minister",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Medical Properties Trust",
+      "target": "Real estate investment trust",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Husband",
+      "target": "Father",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "North Atlantic oscillation",
+      "target": "Atlantic Ocean",
+      "label": "located on terrain feature",
+      "title": "located on terrain feature",
+      "arrows": "to"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russia",
+      "label": "diplomatic relation",
+      "title": "diplomatic relation",
+      "arrows": "to"
+    },
+    {
+      "source": "Retirement",
+      "target": "Career",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Midfielder",
+      "target": "Football",
+      "label": "sport",
+      "title": "sport",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Alphabet Inc.",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Semiconductor fabrication plant",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "ISM Report On Business",
+      "target": "United States",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "Stock market index",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Disability insurance",
+      "target": "Trust (law)",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Alphabet",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Large language model",
+      "target": "Generative artificial intelligence",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Midstream",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Masayoshi Son",
+      "target": "SoftBank Group",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Software industry",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Viva Engage",
+      "target": "Social",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Implied volatility",
+      "target": "VIX",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Mobile phone",
+      "target": "Technology",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Sergey Brin",
+      "target": "Google",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Supermicro",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "1994 FIFA World Cup",
+      "target": "1994",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Antirrhinum",
+      "target": "Qualcomm",
+      "label": "developer",
+      "title": "developer",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Software",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Victoria Nuland",
+      "target": "Presidency of Joe Biden",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Eunice C. Lee",
+      "target": "Bernstein",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "2021",
+      "label": "inception",
+      "title": "inception",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet Inc.",
+      "target": "Alphabet",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Market trend",
+      "target": "Market trend",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Central bank",
+      "target": "Government",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "1931",
+      "target": "1931",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "1933",
+      "target": "1933",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Germanium",
+      "target": "Gallium",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Supermicro",
+      "target": "Nvidia",
+      "label": "shares border with",
+      "title": "shares border with",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet",
+      "target": "Waymo",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Augmented reality",
+      "target": "Technology",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Tag cloud",
+      "target": "Cloud computing",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Artificial intelligence",
+      "target": "Machine learning",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Semiconductor fabrication plant",
+      "target": "Graphics processing unit",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Big Tech",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "SpaceX",
+      "target": "Elon Musk",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19",
+      "target": "S&P Global Ratings",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Cloud computing security",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Nigel Lawson",
+      "target": "Chancellor",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Josef Albers",
+      "target": "Ruth Asawa",
+      "label": "spouse",
+      "title": "spouse",
+      "arrows": "to"
+    },
+    {
+      "source": "Retirement",
+      "target": "Life",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Renaissance Capital",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Singapore",
+      "target": "2",
+      "label": "ranking",
+      "title": "ranking",
+      "arrows": "to"
+    },
+    {
+      "source": "Paul Allen",
+      "target": "Microsoft",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "2018",
+      "target": "2018",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Bill Gates",
+      "target": "Bill & Melinda Gates Foundation",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Management",
+      "target": "Business",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Sergey Brin",
+      "target": "Google",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Medical Properties Trust",
+      "target": "Real estate investment trust",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Everything Everywhere All at Once",
+      "target": "A24",
+      "label": "production company",
+      "title": "production company",
+      "arrows": "to"
+    },
+    {
+      "source": "Natural gas",
+      "target": "Energy",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Working capital",
+      "target": "Liquidity",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Louisiana",
+      "target": "United States",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Nwankwo Kanu",
+      "target": "Arsenal",
+      "label": "member of sports team",
+      "title": "member of sports team",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Nissan",
+      "target": "Japan",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Activision Blizzard",
+      "target": "Microsoft",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "SentinelOne",
+      "target": "Computer security",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Happiness",
+      "target": "Sadness",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Biceps",
+      "target": "Mind",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Midstream",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "1994 FIFA World Cup",
+      "target": "Arsenal",
+      "label": "participating team",
+      "title": "participating team",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Supermicro",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Killing of Laken Riley",
+      "target": "University of Georgia",
+      "label": "educated at",
+      "title": "educated at",
+      "arrows": "to"
+    },
+    {
+      "source": "Bumble",
+      "target": "Lidiane Jones",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Etsy",
+      "target": "Nasdaq",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "2022",
+      "target": "2021",
+      "label": "followed by",
+      "title": "followed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Fair value",
+      "target": "Cost basis",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Artificial Intelligence Act",
+      "target": "European Union",
+      "label": "applies to jurisdiction",
+      "title": "applies to jurisdiction",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Energy development",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Medical Properties Trust",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Etsy",
+      "target": "Marketplace",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Sridhar Ramaswamy",
+      "target": "Google",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Ruth Asawa",
+      "target": "Josef Albers",
+      "label": "spouse",
+      "title": "spouse",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "1973",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "United States presidential election",
+      "target": "2020",
+      "label": "followed by",
+      "title": "followed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Frank Slootman",
+      "target": "Chief executive officer",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet",
+      "target": "Google",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Killing of Laken Riley",
+      "target": "University of Georgia",
+      "label": "location",
+      "title": "location",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Big Tech",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Graphics processing unit",
+      "target": "Semiconductor fabrication plant",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Arm Holdings",
+      "target": "Artificial intelligence",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Jogging",
+      "target": "Exercise",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "CNN",
+      "target": "CNN",
+      "label": "part of the series",
+      "title": "part of the series",
+      "arrows": "to"
+    },
+    {
+      "source": "Supermicro",
+      "target": "Nvidia",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Morabaraba",
+      "target": "Board game",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Israel\u2013Hamas war",
+      "target": "October",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "Institute for Government",
+      "target": "Think tank",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Pacific Heights, San Francisco",
+      "target": "San Francisco",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Viva Engage",
+      "target": "2009",
+      "label": "inception",
+      "title": "inception",
+      "arrows": "to"
+    },
+    {
+      "source": "Salesforce Tower",
+      "target": "Salesforce",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "ISM Report On Business",
+      "target": "Institute for Supply Management",
+      "label": "publisher",
+      "title": "publisher",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Sergey Brin",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Digital Cooperation Organization",
+      "target": "Riyadh",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Big Tech",
+      "target": "Seattle",
+      "label": "headquarters location",
+      "title": "headquarters location",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Computer security",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Walmart",
+      "target": "E-commerce",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Aswath Damodaran",
+      "target": "New York University",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Software as a service",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Treadmill",
+      "target": "Exercise",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "Earnings before interest and taxes",
+      "target": "Revenue",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Doha",
+      "target": "Qatar",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Pastry",
+      "target": "Cooking",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Christopher Nolan",
+      "target": "Best Director",
+      "label": "nominated for",
+      "title": "nominated for",
+      "arrows": "to"
+    },
+    {
+      "source": "SpaceX",
+      "target": "Elon Musk",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Profit margin",
+      "target": "Net income",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Cost basis",
+      "target": "Fair value",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "Caterpillar",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "ChatGPT",
+      "target": "Chatbot",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Equinor",
+      "target": "Equinor",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "AI boom",
+      "target": "Artificial intelligence",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Goldman Sachs",
+      "target": "New York Stock Exchange",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "Tag cloud",
+      "target": "Salesforce",
+      "label": "developer",
+      "title": "developer",
+      "arrows": "to"
+    },
+    {
+      "source": "Mar-a-Lago",
+      "target": "Donald Trump",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Bitcoin",
+      "target": "The Motley Fool",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Google Search",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet Inc.",
+      "target": "Google",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Debits and credits",
+      "target": "Credit",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Rachel Reeves",
+      "target": "Shadow Chancellor of the Exchequer",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Barbie",
+      "target": "Warner Bros.",
+      "label": "distributed by",
+      "title": "distributed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Asia",
+      "target": "Europe",
+      "label": "shares border with",
+      "title": "shares border with",
+      "arrows": "to"
+    },
+    {
+      "source": "East Room",
+      "target": "White House",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Form 10-Q",
+      "target": "2023",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Steve Jobs",
+      "target": "Chief executive officer",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Earnings before interest and taxes",
+      "target": "Revenue",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Graphics processing unit",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "The Motley Fool",
+      "target": "Bitcoin",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Activision Blizzard",
+      "target": "Microsoft",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "World Economic Forum",
+      "target": "Davos",
+      "label": "location",
+      "title": "location",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "1973",
+      "label": "inception",
+      "title": "inception",
+      "arrows": "to"
+    },
+    {
+      "source": "Cyberattack",
+      "target": "Threat (computer)",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "New York Stock Exchange",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "World cup",
+      "target": "Brazil",
+      "label": "participating team",
+      "title": "participating team",
+      "arrows": "to"
+    },
+    {
+      "source": "Father",
+      "target": "Husband",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "License",
+      "target": "Royalty payment",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Activision Blizzard",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Software as a service",
+      "target": "Cloud",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Jeremy Hunt",
+      "target": "Chancellor",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "World Economic Forum",
+      "target": "Davos",
+      "label": "headquarters location",
+      "title": "headquarters location",
+      "arrows": "to"
+    },
+    {
+      "source": "Arm Holdings",
+      "target": "Artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Europe",
+      "target": "Asia",
+      "label": "shares border with",
+      "title": "shares border with",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19",
+      "target": "S&P Global Ratings",
+      "label": "publisher",
+      "title": "publisher",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "2005",
+      "label": "inception",
+      "title": "inception",
+      "arrows": "to"
+    },
+    {
+      "source": "The Zone of Interest",
+      "target": "A24",
+      "label": "distributed by",
+      "title": "distributed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "The Motley Fool",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "Stock market",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Cost basis",
+      "target": "Fair value",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Computer security",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Big Tech",
+      "target": "Seattle",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Artificial intelligence",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Coal",
+      "target": "Carbon",
+      "label": "has parts of the class",
+      "title": "has parts of the class",
+      "arrows": "to"
+    },
+    {
+      "source": "Jerome Powell",
+      "target": "Federal Reserve",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "WeWork",
+      "target": "2016",
+      "label": "dissolved, abolished or demolished date",
+      "title": "dissolved, abolished or demolished date",
+      "arrows": "to"
+    },
+    {
+      "source": "Poor Things",
+      "target": "Searchlight Pictures",
+      "label": "production company",
+      "title": "production company",
+      "arrows": "to"
+    },
+    {
+      "source": "Frankfurt",
+      "target": "Germany",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Office",
+      "target": "Microsoft",
+      "label": "developer",
+      "title": "developer",
+      "arrows": "to"
+    },
+    {
+      "source": "Happiness",
+      "target": "Sadness",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Mark Zuckerberg",
+      "target": "Randi Zuckerberg",
+      "label": "sibling",
+      "title": "sibling",
+      "arrows": "to"
+    },
+    {
+      "source": "Taiwan Semiconductor Research Institute",
+      "target": "Taiwan",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Bitcoin",
+      "target": "Fiat money",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Pastry",
+      "target": "Kitchen",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Stocks",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Federal Reserve",
+      "target": "Jerome Powell",
+      "label": "chairperson",
+      "title": "chairperson",
+      "arrows": "to"
+    },
+    {
+      "source": "Implied volatility",
+      "target": "Derivative",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Working capital",
+      "target": "Liquidity",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "SoftBank Group",
+      "target": "Masayoshi Son",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Ellen Pao",
+      "target": "Kleiner Perkins",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Meme stock",
+      "target": "Reddit",
+      "label": "named after",
+      "title": "named after",
+      "arrows": "to"
+    },
+    {
+      "source": "Spouse",
+      "target": "Father",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Elon Musk",
+      "target": "SpaceX",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Newcrest Mining",
+      "target": "Copper",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Etsy",
+      "target": "Growth stock",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Facebook",
+      "target": "Social media",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Stocks",
+      "target": "Investment",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Artificial intelligence",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Google Search",
+      "target": "Google",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Subscription business model",
+      "target": "Revenue",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Salesforce",
+      "target": "YouTube",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Social media",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Alphabet",
+      "target": "Alphabet Inc.",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Nwankwo Kanu",
+      "target": "1994 FIFA World Cup",
+      "label": "participant in",
+      "title": "participant in",
+      "arrows": "to"
+    },
+    {
+      "source": "Refining",
+      "target": "Chemical substance",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Rui Costa",
+      "target": "Midfielder",
+      "label": "position played on team / speciality",
+      "title": "position played on team / speciality",
+      "arrows": "to"
+    },
+    {
+      "source": "Aerosmith (album)",
+      "target": "CNBC",
+      "label": "original broadcaster",
+      "title": "original broadcaster",
+      "arrows": "to"
+    },
+    {
+      "source": "Jessica Livingston",
+      "target": "Y Combinator",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Alphabet",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Doug McMillon",
+      "target": "Walmart",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Credit",
+      "target": "Debits and credits",
+      "label": "opposite of",
+      "title": "opposite of",
+      "arrows": "to"
+    },
+    {
+      "source": "Newcrest Mining",
+      "target": "Gold",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "2000",
+      "target": "2002",
+      "label": "followed by",
+      "title": "followed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Gartner",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "TSMC",
+      "target": "Taiwan",
+      "label": "headquarters location",
+      "title": "headquarters location",
+      "arrows": "to"
+    },
+    {
+      "source": "License",
+      "target": "Royalty payment",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Biceps",
+      "target": "Muscle",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "2021",
+      "target": "2021",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Digital Cooperation Organization",
+      "target": "Riyadh",
+      "label": "headquarters location",
+      "title": "headquarters location",
+      "arrows": "to"
+    },
+    {
+      "source": "Elon Musk",
+      "target": "SpaceX",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Trading room",
+      "target": "Wall Street",
+      "label": "location",
+      "title": "location",
+      "arrows": "to"
+    },
+    {
+      "source": "SoftBank Group",
+      "target": "Masayoshi Son",
+      "label": "chairperson",
+      "title": "chairperson",
+      "arrows": "to"
+    },
+    {
+      "source": "Google Cloud",
+      "target": "Alphabet",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Refining",
+      "target": "Chemical substance",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Activision Blizzard",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "R/wallstreetbets",
+      "target": "Investor",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Chief financial officer",
+      "target": "Management accounting",
+      "label": "follows",
+      "title": "follows",
+      "arrows": "to"
+    },
+    {
+      "source": "Working capital",
+      "target": "Liquidity",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "Bitcoin",
+      "target": "International Association for Cryptologic Research",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Andrea Pirlo",
+      "target": "Midfielder",
+      "label": "position played on team / speciality",
+      "title": "position played on team / speciality",
+      "arrows": "to"
+    },
+    {
+      "source": "Coal",
+      "target": "Carbon-based fuel",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Great Depression",
+      "target": "September 1929",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Qualcomm",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Antirrhinum",
+      "target": "Qualcomm",
+      "label": "manufacturer",
+      "title": "manufacturer",
+      "arrows": "to"
+    },
+    {
+      "source": "Equinor",
+      "target": "Oil",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Big Tech",
+      "target": "Seattle",
+      "label": "location of formation",
+      "title": "location of formation",
+      "arrows": "to"
+    },
+    {
+      "source": "2007\u20132008 financial crisis",
+      "target": "2008",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "TSMC",
+      "target": "Taiwan",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Jordan Peterson",
+      "target": "Beyond Order",
+      "label": "notable work",
+      "title": "notable work",
+      "arrows": "to"
+    },
+    {
+      "source": "Frank Slootman",
+      "target": "Snowflake",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Write-off",
+      "target": "Accounting",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Home Alone",
+      "target": "Action film",
+      "label": "genre",
+      "title": "genre",
+      "arrows": "to"
+    },
+    {
+      "source": "Palantir Technologies",
+      "target": "Artificial intelligence",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Bill & Melinda Gates Foundation",
+      "target": "Bill Gates",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "2028",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "2018",
+      "target": "2020",
+      "label": "followed by",
+      "title": "followed by",
+      "arrows": "to"
+    },
+    {
+      "source": "TipRanks",
+      "target": "Wall Street",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Generative artificial intelligence",
+      "target": "Computer security",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "University of Georgia",
+      "target": "Rome, Georgia",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "Central bank",
+      "target": "Central bank",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Train",
+      "target": "Artificial intelligence",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Comcast",
+      "target": "Universal Pictures",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Bitcoin",
+      "target": "Cryptocurrency",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "1870",
+      "target": "1870",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Jensen Huang",
+      "target": "Nvidia",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "The Wall Street Journal",
+      "target": "Trade magazine",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "List of films considered the best",
+      "target": "Producers Guild of America",
+      "label": "conferred by",
+      "title": "conferred by",
+      "arrows": "to"
+    },
+    {
+      "source": "Liquefied natural gas",
+      "target": "Regasification",
+      "label": "use",
+      "title": "use",
+      "arrows": "to"
+    },
+    {
+      "source": "Brazil",
+      "target": "World cup",
+      "label": "participant in",
+      "title": "participant in",
+      "arrows": "to"
+    },
+    {
+      "source": "Office",
+      "target": "Microsoft Windows",
+      "label": "operating system",
+      "title": "operating system",
+      "arrows": "to"
+    },
+    {
+      "source": "Ellen Pao",
+      "target": "Venture capital",
+      "label": "occupation",
+      "title": "occupation",
+      "arrows": "to"
+    },
+    {
+      "source": "Caterpillar",
+      "target": "Bill & Melinda Gates Foundation",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Google",
+      "target": "Alphabet Inc.",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Everything Everywhere All at Once",
+      "target": "A24",
+      "label": "distributed by",
+      "title": "distributed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Gold",
+      "target": "Copper",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Victoria Nuland",
+      "target": "List of wars involving Ukraine",
+      "label": "conflict",
+      "title": "conflict",
+      "arrows": "to"
+    },
+    {
+      "source": "World cup",
+      "target": "2002",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Father",
+      "target": "Parenting",
+      "label": "field of this occupation",
+      "title": "field of this occupation",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Qualcomm",
+      "label": "named after",
+      "title": "named after",
+      "arrows": "to"
+    },
+    {
+      "source": "Papua New Guinea",
+      "target": "North America",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Arm",
+      "target": "SoftBank Group",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Qatar",
+      "target": "Doha",
+      "label": "capital",
+      "title": "capital",
+      "arrows": "to"
+    },
+    {
+      "source": "Shadow Chancellor of the Exchequer",
+      "target": "Rachel Reeves",
+      "label": "officeholder",
+      "title": "officeholder",
+      "arrows": "to"
+    },
+    {
+      "source": "TikTok",
+      "target": "Social media",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "International Franchise Association",
+      "target": "Corporate group",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Cyberattack",
+      "target": "Cyberattack",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Lauren McFerran",
+      "target": "National Labor Relations Board",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Great Depression",
+      "target": "1933",
+      "label": "end time",
+      "title": "end time",
+      "arrows": "to"
+    },
+    {
+      "source": "Natural gas",
+      "target": "Commodity",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Reddit",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "SoftBank Group",
+      "target": "Arm",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Pont-de-l'Is\u00e8re",
+      "target": "France",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Hsinchu",
+      "target": "Taiwan",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Generative artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Central bank",
+      "target": "Bank",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Father",
+      "target": "Spouse",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Etsy",
+      "target": "E-commerce",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Dumb Money",
+      "target": "R/wallstreetbets",
+      "label": "based on",
+      "title": "based on",
+      "arrows": "to"
+    },
+    {
+      "source": "Chancellor",
+      "target": "Jeremy Hunt",
+      "label": "officeholder",
+      "title": "officeholder",
+      "arrows": "to"
+    },
+    {
+      "source": "National Retail Federation",
+      "target": "Corporate group",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Australia",
+      "target": "North America",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Lauren McFerran",
+      "target": "Chairperson",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "SoftBank Group",
+      "target": "Masayoshi Son",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Oil",
+      "target": "Commodity",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "United States",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Y Combinator",
+      "target": "Jessica Livingston",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Certificate of deposit",
+      "target": "Savings account",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Renaissance Capital",
+      "target": "Startup company",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Palantir Technologies",
+      "target": "Artificial intelligence",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Microsoft Windows",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "North Atlantic oscillation",
+      "target": "Atlantic Ocean",
+      "label": "located in or next to body of water",
+      "title": "located in or next to body of water",
+      "arrows": "to"
+    },
+    {
+      "source": "Doug McMillon",
+      "target": "Doug McMillon",
+      "label": "position held",
+      "title": "position held",
+      "arrows": "to"
+    },
+    {
+      "source": "Natural gas",
+      "target": "Energy development",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Meta Platforms",
+      "target": "Mark Zuckerberg",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Bill & Melinda Gates Foundation",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Semiconductor fabrication plant",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19",
+      "target": "S&P Global Ratings",
+      "label": "maintained by",
+      "title": "maintained by",
+      "arrows": "to"
+    },
+    {
+      "source": "Germanium",
+      "target": "Metal",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Rui Costa",
+      "target": "Football",
+      "label": "sport",
+      "title": "sport",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "SoftBank Group",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "2028",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "BASF",
+      "target": "Frankfurt",
+      "label": "location of formation",
+      "title": "location of formation",
+      "arrows": "to"
+    },
+    {
+      "source": "Institute for Supply Management",
+      "target": "United States",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Great Recession",
+      "target": "1973",
+      "label": "start time",
+      "title": "start time",
+      "arrows": "to"
+    },
+    {
+      "source": "Federal Reserve",
+      "target": "Central bank",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Earnings before interest, taxes, depreciation and amortization",
+      "target": "Earnings before interest, taxes, depreciation and amortization",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Graphics processing unit",
+      "target": "Graphics processing unit",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Arsenal",
+      "target": "1994 FIFA World Cup",
+      "label": "participant in",
+      "title": "participant in",
+      "arrows": "to"
+    },
+    {
+      "source": "1948",
+      "target": "1948",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Meme stock",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Stocks",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Small caps",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Palantir Technologies",
+      "target": "Artificial intelligence",
+      "label": "field of work",
+      "title": "field of work",
+      "arrows": "to"
+    },
+    {
+      "source": "J. Robert Oppenheimer",
+      "target": "Universal Pictures",
+      "label": "distributed by",
+      "title": "distributed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Nasdaq",
+      "target": "Stock market index",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Park",
+      "target": "Gear",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Canadian National Railway",
+      "target": "Canada",
+      "label": "country",
+      "title": "country",
+      "arrows": "to"
+    },
+    {
+      "source": "Medi-Cal",
+      "target": "Medical Properties Trust",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Bill Gates",
+      "target": "Microsoft",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Caterpillar",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft Windows",
+      "target": "Microsoft",
+      "label": "developer",
+      "title": "developer",
+      "arrows": "to"
+    },
+    {
+      "source": "Beyond Order",
+      "target": "Jordan Peterson",
+      "label": "author",
+      "title": "author",
+      "arrows": "to"
+    },
+    {
+      "source": "Russia",
+      "target": "Ukraine",
+      "label": "diplomatic relation",
+      "title": "diplomatic relation",
+      "arrows": "to"
+    },
+    {
+      "source": "Employment",
+      "target": "Workplace",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Marc Benioff",
+      "target": "Salesforce",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "R/wallstreetbets",
+      "target": "Reddit",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "S&P 500",
+      "target": "Goldman Sachs",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Jet.com",
+      "target": "Marc Lore",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "The Motley Fool",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Marketing",
+      "target": "Sales",
+      "label": "facet of",
+      "title": "facet of",
+      "arrows": "to"
+    },
+    {
+      "source": "Oil",
+      "target": "Energy",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "2020",
+      "target": "2020",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Management accounting",
+      "target": "Chief financial officer",
+      "label": "followed by",
+      "title": "followed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Market trend",
+      "target": "Stock market",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Facebook",
+      "target": "Social",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Bill & Melinda Gates Foundation",
+      "target": "Caterpillar",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Natural gas",
+      "target": "Commodity",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Morgan Stanley",
+      "target": "New York Stock Exchange",
+      "label": "stock exchange",
+      "title": "stock exchange",
+      "arrows": "to"
+    },
+    {
+      "source": "Private equity",
+      "target": "Private credit",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Cryptocurrency",
+      "target": "Bitcoin",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "2030s",
+      "label": "end time",
+      "title": "end time",
+      "arrows": "to"
+    },
+    {
+      "source": "Metaverse",
+      "target": "Nvidia",
+      "label": "developer",
+      "title": "developer",
+      "arrows": "to"
+    },
+    {
+      "source": "R/wallstreetbets",
+      "target": "Reddit",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Qualcomm",
+      "target": "Antirrhinum",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Office",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Midstream",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "SoftBank Group",
+      "target": "Nvidia",
+      "label": "subsidiary",
+      "title": "subsidiary",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Software industry",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Steve Huffman",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "European Union",
+      "target": "Member state",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Politics",
+      "target": "Business",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Enbridge",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Supermicro",
+      "label": "shares border with",
+      "title": "shares border with",
+      "arrows": "to"
+    },
+    {
+      "source": "Randi Zuckerberg",
+      "target": "Meta Platforms",
+      "label": "sibling",
+      "title": "sibling",
+      "arrows": "to"
+    },
+    {
+      "source": "Workplace",
+      "target": "Employment",
+      "label": "different from",
+      "title": "different from",
+      "arrows": "to"
+    },
+    {
+      "source": "Enbridge",
+      "target": "Master limited partnership",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "White House",
+      "target": "East Room",
+      "label": "has part",
+      "title": "has part",
+      "arrows": "to"
+    },
+    {
+      "source": "Donald Trump",
+      "target": "Mar-a-Lago",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Assets under management",
+      "target": "Investment",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "Benioff",
+      "target": "Salesforce",
+      "label": "employer",
+      "title": "employer",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Paul Allen",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Middlebury College",
+      "target": "Vermont",
+      "label": "located in the administrative territorial entity",
+      "title": "located in the administrative territorial entity",
+      "arrows": "to"
+    },
+    {
+      "source": "2017",
+      "target": "2017",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "S&P 500",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "Randi Zuckerberg",
+      "target": "Meta Platforms",
+      "label": "owner of",
+      "title": "owner of",
+      "arrows": "to"
+    },
+    {
+      "source": "Equinor",
+      "target": "Natural gas",
+      "label": "product or material produced",
+      "title": "product or material produced",
+      "arrows": "to"
+    },
+    {
+      "source": "Andrea Pirlo",
+      "target": "Arsenal",
+      "label": "member of sports team",
+      "title": "member of sports team",
+      "arrows": "to"
+    },
+    {
+      "source": "Meta Platforms",
+      "target": "Randi Zuckerberg",
+      "label": "sibling",
+      "title": "sibling",
+      "arrows": "to"
+    },
+    {
+      "source": "Etsy",
+      "target": "Share price",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Internet",
+      "target": "Technology",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Nvidia",
+      "target": "Jensen Huang",
+      "label": "founded by",
+      "title": "founded by",
+      "arrows": "to"
+    },
+    {
+      "source": "Poor Things",
+      "target": "Searchlight Pictures",
+      "label": "distributed by",
+      "title": "distributed by",
+      "arrows": "to"
+    },
+    {
+      "source": "Pastry",
+      "target": "Cooking",
+      "label": "subclass of",
+      "title": "subclass of",
+      "arrows": "to"
+    },
+    {
+      "source": "2007\u20132008 financial crisis",
+      "target": "Recession",
+      "label": "has effect",
+      "title": "has effect",
+      "arrows": "to"
+    },
+    {
+      "source": "2002",
+      "target": "2000",
+      "label": "follows",
+      "title": "follows",
+      "arrows": "to"
+    },
+    {
+      "source": "Parenting",
+      "target": "Father",
+      "label": "practiced by",
+      "title": "practiced by",
+      "arrows": "to"
+    },
+    {
+      "source": "Datadog",
+      "target": "Stock",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Dumb Money",
+      "target": "2021",
+      "label": "publication date",
+      "title": "publication date",
+      "arrows": "to"
+    },
+    {
+      "source": "Apple",
+      "target": "Steve Jobs",
+      "label": "named after",
+      "title": "named after",
+      "arrows": "to"
+    },
+    {
+      "source": "WeWork",
+      "target": "SoftBank Group",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Machine learning",
+      "target": "Artificial intelligence",
+      "label": "part of",
+      "title": "part of",
+      "arrows": "to"
+    },
+    {
+      "source": "2023",
+      "target": "2023",
+      "label": "point in time",
+      "title": "point in time",
+      "arrows": "to"
+    },
+    {
+      "source": "American Hotel and Lodging Association",
+      "target": "Corporate group",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Reddit",
+      "target": "Reddit",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Seeking Alpha",
+      "target": "Seeking Alpha",
+      "label": "owned by",
+      "title": "owned by",
+      "arrows": "to"
+    },
+    {
+      "source": "Waymo",
+      "target": "Alphabet",
+      "label": "parent organization",
+      "title": "parent organization",
+      "arrows": "to"
+    },
+    {
+      "source": "Marc Benioff",
+      "target": "Sales",
+      "label": "occupation",
+      "title": "occupation",
+      "arrows": "to"
+    },
+    {
+      "source": "Microsoft",
+      "target": "Cloud computing",
+      "label": "industry",
+      "title": "industry",
+      "arrows": "to"
+    },
+    {
+      "source": "Amazon Web Services",
+      "target": "Cloud computing",
+      "label": "instance of",
+      "title": "instance of",
+      "arrows": "to"
+    },
+    {
+      "source": "Blockchain",
+      "target": "Cryptocurrency",
+      "label": "used by",
+      "title": "used by",
+      "arrows": "to"
+    }
+  ]
+}
