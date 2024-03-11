@@ -1,48 +1,75 @@
+<!DOCTYPE html>
 <head>
   <style> body { margin: 0; } </style>
+
   <script src="https://unpkg.com/3d-force-graph"></script>
-  <script type="importmap">
-    {
-      "imports": {
-        "three": "https://unpkg.com/three/build/three.module.js"
-      }
-    }
-  </script>
+  <!--<script src="../../dist/3d-force-graph.js"></script>-->
 </head>
+
 <body>
   <div id="3d-graph"></div>
-  <script type="module">
-    import SpriteText from "https://unpkg.com/three-spritetext/dist/three-spritetext.mjs";
 
-    const Graph = ForceGraph3D()(document.getElementById('3d-graph'))
-      .jsonUrl('./new_graph.json') // Specify your JSON file path here
-      .nodeAutoColorBy('group')
-      .nodeLabel('id')
-      .nodeThreeObject(node => {
+  <script type="importmap">{ "imports": { "three": "https://unpkg.com/three/build/three.module.js" }}</script>
+
+  <script type="module">
+    import SpriteText from "//unpkg.com/three-spritetext/dist/three-spritetext.mjs";
+    import { UnrealBloomPass } from '//unpkg.com/three/examples/jsm/postprocessing/UnrealBloomPass.js';
+    import * as THREE from 'three';
+
+    const Graph = ForceGraph3D()
+        (document.getElementById('3d-graph'))
+        .backgroundColor('#000003')
+        .jsonUrl('new_graph.json') // Choose the appropriate JSON URL for your data
+        .nodeAutoColorBy('group')
+        .nodeThreeObject(node => {
+        // Node customization with sprite text
+
+
+      const sphereGeometry = new THREE.SphereGeometry(20);
+      const sphereMaterial = new THREE.MeshBasicMaterial({ color: node.color, transparent: true, opacity: 0.8 });
+      const sphereMesh = new THREE.Mesh(sphereGeometry, sphereMaterial);
+
+        node.color= 'lightgrey';
+
         const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false; // make sprite background transparent
-        sprite.color = node.color;
-        sprite.textHeight = 8;
-        return sprite;
+
+        sprite.color = 'lightgrey';
+        sprite.textHeight = 10;
+        sphereMesh.add(sprite);
+
+        return sphereMesh;
       })
+      .nodeLabel('id') // Assuming you want to keep the node labels as in the second script
       .linkThreeObjectExtend(true)
       .linkThreeObject(link => {
-        // extend link with text sprite
+        // Extend link with text sprite showing the relationship
         const sprite = new SpriteText(`${link.source} > ${link.target}`);
         sprite.color = 'lightgrey';
-        sprite.textHeight = 1.5;
+        sprite.textHeight = 3;
         return sprite;
       })
       .linkPositionUpdate((sprite, { start, end }) => {
+        // Positioning the sprite at the middle of the link
         const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
-          [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+          [c]: start[c] + (end[c] - start[c]) / 2 // calculate middle point
         })));
-        // Position sprite
         Object.assign(sprite.position, middlePos);
-      });
+      })
+      // Adjust the force to spread nodes a little wider
+      .d3Force('charge').strength(-120);
 
-    // Spread nodes a little wider
-    Graph.d3Force('charge').strength(-120);
+
+        const bloomPass = new UnrealBloomPass();
+        bloomPass.strength = 5;
+        bloomPass.radius = 1;
+        bloomPass.threshold = 0;
+        Graph.postProcessingComposer().addPass(bloomPass);
+
+
   </script>
-</body>
 
+
+</body>
+~
+~
