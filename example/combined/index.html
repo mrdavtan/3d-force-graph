@@ -25,20 +25,29 @@
         // Node customization with sprite text
 
 
-      const sphereGeometry = new THREE.SphereGeometry(20);
-      const sphereMaterial = new THREE.MeshBasicMaterial({ color: node.color, transparent: true, opacity: 0.8 });
-      const sphereMesh = new THREE.Mesh(sphereGeometry, sphereMaterial);
+        const sphereGeometry = new THREE.SphereGeometry(20);
+        const sphereMaterial = new THREE.MeshBasicMaterial({ color: 'light grey', transparent: true, opacity: 0.4 });
+        const sphereMesh = new THREE.Mesh(sphereGeometry, sphereMaterial);
 
-        node.color= 'lightgrey';
+
+        // Create a new Object3D to hold the sphere mesh and sprite text
+        const container = new THREE.Object3D();
+        container.add(sphereMesh);
 
         const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false; // make sprite background transparent
 
         sprite.color = 'lightgrey';
         sprite.textHeight = 10;
-        sphereMesh.add(sprite);
 
-        return sphereMesh;
+
+  // Set the position of the sprite text to be in front of the sphere mesh
+  sprite.position.set(0, 0, sphereGeometry.parameters.radius + 2);
+
+  // Add the sprite text to the container
+  container.add(sprite);
+
+        return container;
       })
       .nodeLabel('id') // Assuming you want to keep the node labels as in the second script
       .linkThreeObjectExtend(true)
